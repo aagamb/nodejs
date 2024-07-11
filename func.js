@@ -1,7 +1,7 @@
 function hello(name) {
-    console.log(`Hello Niglet ${name}`)
+    console.log(`Hello my man ${name}`)
 }
 
-hello('nigga')
+hello('world')
 
 module.exports = hello
